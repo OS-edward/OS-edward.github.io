@@ -28,10 +28,10 @@ nav {
   min-height: 10vh;
 }
 
-.wrapper {
+/* .wrapper {
   position: absolute;
   overflow-x: hidden;
-}
+} */
 
 .logo {
   text-shadow: #00305a8f 1px 0 10px;
