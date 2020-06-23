@@ -6,6 +6,7 @@
 
 body {
   font-family: "Bungee Inline", sans-serif;
+  overflow-x: hidden;
 }
 
 html {
