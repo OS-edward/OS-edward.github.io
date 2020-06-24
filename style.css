@@ -219,6 +219,9 @@ nav {
   .intro-text h2 {
     text-align: center;
   }
+  .section-two h2 {
+    text-align: center;
+  }
   .hero button {
     margin-right: 0rem;
   }
