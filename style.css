@@ -173,6 +173,14 @@ nav {
   border-radius: 2rem;
 }
 
+/* Mobile Resposive */
+
+@media screen and (max-width: 330px) {
+  .hero h2 {
+    font-size: 3.2rem;
+  }
+}
+
 @media screen and (max-width: 663px) {
   .nav-links {
     width: 75%;
