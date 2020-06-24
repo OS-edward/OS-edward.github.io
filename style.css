@@ -202,6 +202,15 @@ nav {
   .burger {
     display: block;
   }
+  .section-two-text {
+    order: 2;
+  }
+  .section-two-image {
+    order: 1;
+  }
+  .intro-text h1 {
+    text-align: center;
+  }
 }
 
 /* Nav Animations */
